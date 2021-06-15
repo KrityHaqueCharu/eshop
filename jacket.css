@@ -3,48 +3,25 @@
     padding: 0px;
 
 }
-section{
-    height: 650px;
-}
 .head{
     background-color: #ffffe6;
 }
 .q{
     padding-top: 120px;
 }
-.p img{
-    
-    position: relative;
-    left: 80px;
+.card-img-top{
+    width: 280px;
+    height: 300px;
 }
-.p{
-    background-color: #ffffe6;
+.picc{
+    margin: 15px; 
+    border-radius: 8px;
+    background-color:rgb(238, 224, 224);
+}
+.card {
+    box-shadow: 3px 3px 10px gray;
 }
 .hdp{
     color: orange;
 }
-.picc{
-    height: 300px;
-    width: 250px;
-    background-color: #e0e0eb;
-    margin: auto;
-    border-radius: 5px;
-}
-#baje{
-    
-    max-width: 80%;
-    position: relative;
-    left: 20px;
-}
-.box{
-    width: 600px;
-    height: 120px;
-    margin-top: 10px;
-}
-.write{
-    margin-left: 30px;
-}
-#footer-pic{
-    position: relative;
-    left: 25%;
-}
+
